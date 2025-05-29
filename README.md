@@ -17,5 +17,5 @@ Minitab 21
 
 ## Author:
 SadunikaNethmini2001
-Physical Science Undergraduate  
+BSc Undergraduate  
 University of Colombo
